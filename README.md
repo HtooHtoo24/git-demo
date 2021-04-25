@@ -9,3 +9,5 @@ Hope cause problem
 =======
 From test-branch bound to case trouble
 >>>>>>> test-branch
+
+Test stashing
